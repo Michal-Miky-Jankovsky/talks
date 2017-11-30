@@ -1,2 +1,5 @@
-# talks
+# TALKS
+
 Resources, slides and videos from my talks.
+
+
