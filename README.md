@@ -4,7 +4,7 @@ Resources, slides and videos from my talks.
 
 ## 2015
 **Chrome Extensions** (Barcamp Hradec) \[CZ\]
-[YouTube](https://youtu.be/q8WDGTUZixA) 
+ * [YouTube](https://youtu.be/q8WDGTUZixA) 
 
 ## 2016
 **JetBrains IDEs tipy a triky** (Barcamp Hradec) \[CZ\]
@@ -12,7 +12,7 @@ Resources, slides and videos from my talks.
 
 ## 2017
 **Přepíšeme to od nuly - ne fakt ne** (Barcamp Hradec) \[CZ\]
-[YouTube](https://youtu.be/6qzZWpeS3Uk)
+ * [YouTube](https://youtu.be/6qzZWpeS3Uk)
 
 **ReasonML & OCaml** \[CZ\]
  * [PDF Slides](reason/reason.pdf)
