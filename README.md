@@ -3,12 +3,15 @@
 Resources, slides and videos from my talks.
 
 ## 2015
-**Chrome Extensions** (Barcamp Hradec) \[CZ\]
+**Chrome Extensions** \[CZ\]
  * 10.10. [Barcamp Hradec](https://www.facebook.com/events/1492261204405195)
  * [YouTube](https://youtu.be/q8WDGTUZixA) 
 
 ## 2016
-**JetBrains IDEs tipy a triky** (Barcamp Hradec) \[CZ\]
+**Google Chrome Extensions** \[CZ\]
+ * 1.6. [GDGrill 4.0](https://www.facebook.com/events/841603239284682)
+
+**JetBrains IDEs tipy a triky** \[CZ\]
  * 15.10. [Barcamp Hradec](https://www.facebook.com/events/927186954070871)
  * [YouTube](https://youtu.be/hml-2Fjy4Y4)
 
