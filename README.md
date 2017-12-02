@@ -2,6 +2,8 @@
 
 Resources, slides and videos from my talks.
 
+![](.gfx/miky-speaker.png)
+
 ## 2015
 **Chrome Extensions** ![](.gfx/cz.png) \[CZ\]
  * 10.10. [Barcamp Hradec](https://www.facebook.com/events/1492261204405195)
