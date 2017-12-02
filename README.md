@@ -20,7 +20,7 @@ Resources, slides and videos from my talks.
 ## 2017
 **Continuous Integration is a MUST** ![](.gfx/cz.png) \[CZ\]
  * 17.8. [Summer Lightning Storm Hradec Králové](https://www.facebook.com/events/251578875355379)
- * [PDF Slides](continuous-integration-is-a-must/continuous-integration-is-a-must.pdf) 13 stran
+ * [PDF Slides](continuous-integration-is-a-must/continuous-integration-is-a-must.pdf) 13 pages
  * [Powerpoint](continuous-integration-is-a-must/continuous-integration-is-a-must.pptx)
 
 **Přepíšeme to od nuly - ne, fakt ne** ![](.gfx/cz.png) \[CZ\]
