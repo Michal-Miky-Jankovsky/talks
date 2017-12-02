@@ -21,7 +21,7 @@ Resources, slides and videos from my talks.
  * [PDF Slides](continuous-integration-is-a-must/continuous-integration-is-a-must.pdf) 13 stran
  * [Powerpoint](continuous-integration-is-a-must/continuous-integration-is-a-must.pptx)
 
-**Přepíšeme to od nuly - ne fakt ne** ![](.gfx/cz.png) \[CZ\]
+**Přepíšeme to od nuly - ne, fakt ne** ![](.gfx/cz.png) \[CZ\]
  * 14.10. [Barcamp Hradec](https://www.facebook.com/events/302410156829117)
  * [YouTube video](https://youtu.be/6qzZWpeS3Uk) 23 minutes 
 
@@ -31,7 +31,7 @@ Resources, slides and videos from my talks.
  * [PDF Slides](reasonml-and-ocaml/reason.pdf) 25 pages
  * [Markdown](reasonml-and-ocaml/reason.md)
 
-**Bad Code Smells** ![](.gfx/cz.png) \[CZ\]
+**Bad Code Smells & Quality Tactics** ![](.gfx/cz.png) \[CZ\]
  * 30.11. [It Insider MEET UP](https://www.facebook.com/events/129228497767716)
  * [PDF Slides](bad-code-smells/bad-code-smells.pdf) 20 pages
  * [Markdown](bad-code-smells/bad-code-smells.md)
