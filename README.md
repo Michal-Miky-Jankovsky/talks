@@ -37,3 +37,8 @@ Resources, slides and videos from my talks.
  * 30.11. [It Insider MEET UP](https://www.facebook.com/events/129228497767716)
  * [PDF Slides](bad-code-smells/bad-code-smells.pdf) 20 pages
  * [Markdown](bad-code-smells/bad-code-smells.md)
+
+## 2018
+**TBA (to be announced)** ![](_gfx/cz.png) \[CZ\]
+ * 13.10. [Barcamp Hradec](https://www.facebook.com/events/808550792684945)
+ * probably about [ReasonML](https://reasonml.github.io)
