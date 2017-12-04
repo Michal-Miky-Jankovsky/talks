@@ -30,8 +30,8 @@ Resources, slides and videos from my talks.
 **ReasonML & OCaml** ![](gfx/cz.png) \[CZ\]
  * 13.11. [Quadient](https://www.quadient.com/) internal (insights from conference [ReactiveConf](https://reactiveconf.com))
  * [YouTube screen capture & audio](https://youtu.be/MWSJOatjvUQ) 20 minutes
- * [PDF Slides](reasonml-and-ocaml/reason.pdf) 25 pages
- * [Markdown](reasonml-and-ocaml/reason.md)
+ * [PDF Slides](reasonml-and-ocaml/reasonml-and-ocaml.pdf) 25 pages
+ * [Markdown](reasonml-and-ocaml/reasonml-and-ocaml.md)
 
 **Bad Code Smells & Quality Tactics** ![](gfx/cz.png) \[CZ\]
  * 30.11. [It Insider MEET UP](https://www.facebook.com/events/129228497767716)
